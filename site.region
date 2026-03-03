@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="touch-styles">
   <head>
+    <!-- DEV MODE SYNC TEST: 2026-03-02 -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     {.if template.mobileStylesEnabled}
     <meta name="viewport" content="width=device-width, initial-scale=1">
