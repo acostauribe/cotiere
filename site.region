@@ -158,6 +158,12 @@
     <squarespace:script src="site-bundle.js" combo="false" />
 
     {squarespace-footers}
-  <script type="text/javascript" src="https://cdn.commerce7.com/v2/commerce7.js" id="c7-javascript" data-tenant="cotiere-winery"></script>
+<!-- Commerce7 JS -->
+<script 
+    type="text/javascript" 
+    src="https://cdn.commerce7.com/v2/commerce7.js" 
+    id="c7-javascript" 
+    data-tenant="cotiere-winery">
+  </script>
   </body>
 </html>
